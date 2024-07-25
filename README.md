@@ -25,7 +25,7 @@ After you do that, you can download the latest version of KleinWorks Machinima f
 
 Lastly, you need to install the EntRec Blender Addon, which is done like any other Blender addon: open Blender, go to Edit->Preferences, then under Addons click Install Addon and select 'kw_entrec_blender_addon.zip'.
 
-__NOTE:__ The EntRec Blender addon REQUIES the latest version of the [SourceIO](https://github.com/REDxEYE/SourceIO/releases) Blender addon to be _installed_ and _enabled_ to function properly.
+__NOTE:__ The EntRec Blender addon REQUIRES the latest version of the [SourceIO](https://github.com/REDxEYE/SourceIO/releases) Blender addon to be _installed_ and _enabled_ to function properly.
 
 Example photo for Blender 4.2 (layout may be slightly different for each Blender version):
 
@@ -45,7 +45,7 @@ The main purpose of this tool being to capture physics objects (such as props or
 
 Heres a [link to a basic video demonstrating the successful use of EntRec](https://youtu.be/uBtXsWGtlJA)
 
-This video doesn't explain all of EntRec's features, and doesn't touch on any of the EntRec Hammer entities. For a more indepth guide on EntRec's functionality, visit the [Wiki](https://github.com/compact-colonist/KleinWorks-Machinima/wiki), everything should be explained in detail there.
+This video roughly explains all of the features of KleinWorks Machinima as of v0.1. For indepth information on EntRec's functionality, visit the [Wiki](https://github.com/compact-colonist/KleinWorks-Machinima/wiki), everything should be kept up to date and explained in detail there.
 
 
 
