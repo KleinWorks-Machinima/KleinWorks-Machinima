@@ -18,7 +18,7 @@ Source SDK Base Singleplayer 2013 ___needs___ to specifically be on the _upcomin
 ![alt text](https://i.imgur.com/hm38pJv.png)
 ![alt text](https://i.imgur.com/l6HWx04.png)
 
-After you do that, you can download the latest version of KleinWorks Machinima from this github under [Releases](). Inside of the release should be a folder named 'KleinWorks [version number]' and the EntRec Blender addon named 'kw_entrec_blender_addon', all you have to do is drag and drop the folder named KleinWorks into Steam's _sourcemods_ folder, which is under Steam->steamapps->sourcemods (example picture below). Restart Steam, and KleinWorks: Machinima should show up in your library.
+After you do that, you can download the latest version of KleinWorks Machinima from this github under [Releases](https://github.com/compact-colonist/KleinWorks-Machinima/releases). Inside of the release should be a folder named 'KleinWorks [version number]' and the EntRec Blender addon named 'kw_entrec_blender_addon', all you have to do is drag and drop the folder named KleinWorks into Steam's _sourcemods_ folder, which is under Steam->steamapps->sourcemods (example picture below). Restart Steam, and KleinWorks: Machinima should show up in your library.
 
 ![alt text](https://i.imgur.com/2JACBki.png)
 ![alt text](https://i.imgur.com/KlgIR3M.png)
