@@ -45,7 +45,7 @@ The main purpose of this tool being to capture physics objects (such as props or
 
 Heres a [link to a basic video demonstrating the successful use of EntRec](https://youtu.be/mrTpOoaPePY)
 
-This video doesn't explain all of EntRec's features, and doesn't touch on any of the EntRec Hammer entities. For a more indepth guide on EntRec's functionality, visit the [Wiki](), everything should be explained in detail there.
+This video doesn't explain all of EntRec's features, and doesn't touch on any of the EntRec Hammer entities. For a more indepth guide on EntRec's functionality, visit the [Wiki](https://github.com/compact-colonist/KleinWorks-Machinima/wiki), everything should be explained in detail there.
 
 
 
