@@ -7,7 +7,7 @@ Currently, this is entirely a passion project, so development may or may not be 
 
 ## Setting Up KleinWorks
 
-The setup for getting KleinWorks Machinima to work is relatively simple, though if you are confused or encounter any problems with the installation of KleinWorks Machinima feel free to join our [Discord Server™](https://discord.gg/9asB83GFS) to ask for help.
+The setup for getting KleinWorks Machinima to work is relatively simple, though if you are confused or encounter any problems with the installation of KleinWorks Machinima feel free to join our [Discord Server™](https://discord.gg/9asB83GF6S) to ask for help.
 
 For KleinWorks to function, you must first install Source SDK Base Singleplayer 2013, which should be in your Steam library under the 'tools' category, as pictured below:
 
@@ -54,7 +54,7 @@ This video roughly explains all of the features of KleinWorks Machinima as of v0
 
 # Contribution
 
-Any and all contribution is welcome, so feel free to contribute anything you'd like to the code! If you'd like to contribute, you can also join the [Discord Server](https://discord.gg/9asB83GFS) and communicate your ideas or talk about the code with me or any other possible developers there.
+Any and all contribution is welcome, so feel free to contribute anything you'd like to the code! If you'd like to contribute, you can also join the [Discord Server](https://discord.gg/9asB83GF6S) and communicate your ideas or talk about the code with me or any other possible developers there.
 
 Any modification to Mapbase code or Half-Life 2 source code by the Kleinworks Machinima project is marked by two code comments, enclosing where the modification begins and ends, for example:
 
