@@ -1,6 +1,6 @@
 [submodule "SourceIPC"]
 	path = SourceIPC
-	url = https://github.com/compact-colonist/SourceIPC.git
+	url = https://github.com/KleinWorks-Machinima/SourceIPC.git
 [submodule "source-sdk-2013"]
 	path = source-sdk-2013
-	url = https://github.com/compact-colonist/source-sdk-2013.git
+	url = https://github.com/KleinWorks-Machinima/source-sdk-2013.git
